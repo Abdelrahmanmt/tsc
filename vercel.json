@@ -1,0 +1,9 @@
+{
+  "rootDirectory": "final",
+  "builds": [
+    {
+      "src": "final/next.config.js",
+      "use": "@vercel/next"
+    }
+  ]
+} 
